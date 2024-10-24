@@ -1,2 +1,0 @@
-/u01/app/oracle/diag/rdbms/*/*/incident
-
